@@ -19,6 +19,10 @@ This project involves the editing of the background of any image while preservin
 
 ## Getting Started
 
+You can run the [demo](demo.ipynb) on Google Colab.
+
+or 
+
 To get a local copy up and running, follow these simple example steps.
 <br/><br/>
 
