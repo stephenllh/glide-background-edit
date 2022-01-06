@@ -1,11 +1,9 @@
 from typing import Tuple
-
 from IPython.display import display
 from PIL import Image
 import numpy as np
 import torch
 from torchvision import transforms
-
 from glide_text2im.download import load_checkpoint
 from glide_text2im.model_creation import (
     create_model_and_diffusion,
